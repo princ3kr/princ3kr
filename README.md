@@ -29,15 +29,6 @@ I'm focused on **Gen AI engineering**: RAG pipelines, knowledge graphs, multi-ag
 
 ---
 
-## 📊 GitHub Stats
-
-![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=princ3kr&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princ3kr&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=princ3kr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ## 📌 Currently
 
 - Building **R2G Mapper** — turning codebases into queryable knowledge graphs

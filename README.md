@@ -1,8 +1,6 @@
 # Hey, I'm Prince 👋
 
-3rd-year EEE undergrad at VNIT Nagpur, spending most of my time outside the curriculum — building AI systems that actually do something.
-
-I'm focused on **Gen AI engineering**: RAG pipelines, knowledge graphs, multi-agent architectures, and making LLMs useful in production. Not just fine-tuning models, but building the systems around them.
+3rd-yr Electrical and ELectronics Engineering Student @ VNIT Nagpur | Gen AI Engineering · RAG · Knowledge Graphs · Multi-Agent Systems | ML Team Lead @ ACM VNIT
 
 ---
 

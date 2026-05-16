@@ -18,24 +18,40 @@ I'm focused on **Gen AI engineering**: RAG pipelines, knowledge graphs, multi-ag
 
 ## 🧠 What I Work With
 
-`Python` `LangGraph` `Neo4j` `ChromaDB` `PyTorch` `HuggingFace` `NetworkX`
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-RAG · Knowledge Graphs · Multi-Agent Systems · Cross-Encoder Reranking · Graph-based Retrieval
+`RAG` · `Knowledge Graphs` · `Multi-Agent Systems` · `Cross-Encoder Reranking` · `Graph-based Retrieval`
+
+---
+
+## 📊 GitHub Stats
+
+![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=princ3kr&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princ3kr&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=princ3kr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ## 📌 Currently
 
 - Building **R2G Mapper** — turning codebases into queryable knowledge graphs
-- ML Team Lead @ACM Student Chapter, VNIT — mentoring juniors in ML fundamentals
+- ML Team Lead @ ACM Student Chapter, VNIT — mentoring juniors in ML fundamentals
 
 ---
 
 ## 📬 Reach Me
 
-- 📧 [prince307339@gmail.com]
+- 📧 prince307339@gmail.com
 - 💼 [linkedin.com/in/prince-kumar-364252332](https://linkedin.com/in/prince-kumar-364252332)
 
 ---
 
 *I build things to understand them. Open to internships, research collabs, and interesting problems.*
+
+![](https://komainu8.github.io/github-profile-views-counter/api?username=princ3kr&color=blue)

@@ -6,7 +6,7 @@
 
 ## 🔨 What I'm Building
 
-**[Ask-My-Repo](https://github.com/princ3kr/Ask-My-Repo)** — Parses code repositories into graph structures using NetworkX + Neo4j + ChromaDB. Implements hybrid retrieval (vector + BM25 via RRF), cross-encoder reranking, and RAGAS-based evaluation. Multi-tenant via `repo_id` isolation.
+**[Ask-My-Repo](https://github.com/princ3kr/Ask-My-Repo)** — Built a GraphRAG system for code repositories using Neo4j, Qdrant, LangGraph, FastAPI, and AST analysis. Implemented repository parsing, dependency graph construction, hybrid graph/vector retrieval, architecture-aware query planning, automated entry-point discovery, and RAGAS-based evaluation.
 
 **[GraphMASAL](https://github.com/princ3kr/Notebook-LM-Mini)** — Multi-agent adaptive learning system built on LangGraph + Neo4j. Two-stage retrieval pipeline, MSMS planner, TinyDB student state management. Think Notebook LM, but actually agentic.
 
@@ -29,7 +29,6 @@
 
 ## 📌 Currently
 
-- Building **R2G Mapper** — turning codebases into queryable knowledge graphs
 - ML Team Lead @ ACM Student Chapter, VNIT — mentoring juniors in ML fundamentals
 
 ---
